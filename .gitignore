@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+content/posts/
+content/ideas.md
+tracking.md
+metrics/
+exports/
+*.log
